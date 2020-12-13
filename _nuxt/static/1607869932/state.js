@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fgh-pages\u002F_nuxt\u002Fstatic\u002F1607869932",layout:"default",error:null,serverRendered:true,routePath:"\u002F",config:{axios:{baseURL:a,browserBaseURL:a},content:{dbHash:"36e15e01"}}}}("http:\u002F\u002Flocalhost:3000"));
